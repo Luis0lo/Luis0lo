@@ -2,7 +2,6 @@
 
 I'm currently:
 * [School of Code](https://www.schoolofcode.co.uk/partner)  Bootcamp 🚀 Graduate
-* tweeting my journey [@withluis1](https://twitter.com/withluis1) ✍️
 
 <div align="center">
   <a href="https://github.com/luis0lo">
