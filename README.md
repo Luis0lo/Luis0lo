@@ -1,7 +1,9 @@
 ### Hello Friend 👋
 
-I'm currently:
-* [School of Code](https://www.schoolofcode.co.uk/partner)  Bootcamp 🚀 Graduate
+* Bootcamp Graduate from [School of Code](https://www.schoolofcode.co.uk/partner) 
+* Software developer at [Tailored Ltd](https://www.linkedin.com/company/tailoredsites/)
+
+* Looking for new opportunities
 
 <div align="center">
   <a href="https://github.com/luis0lo">
