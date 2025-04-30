@@ -1,6 +1,6 @@
 ### Hello Friend 👋
 
-* Full stack developer at [Navari Ltd]([https://www.linkedin.com/company/tailoredsites/](https://navari.co.uk/))
+* Full stack developer at [Navari Ltd](https://navari.co.uk/)
 * Software developer at [Tailored Ltd](https://www.linkedin.com/company/tailoredsites/)
 * Bootcamp Graduate from [School of Code](https://www.schoolofcode.co.uk/partner) 
 
