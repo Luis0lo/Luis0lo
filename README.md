@@ -1,7 +1,9 @@
 ### Hello Friend 👋
 
-* Bootcamp Graduate from [School of Code](https://www.schoolofcode.co.uk/partner) 
+* Full stack developer at [Navari Ltd]([https://www.linkedin.com/company/tailoredsites/](https://navari.co.uk/))
 * Software developer at [Tailored Ltd](https://www.linkedin.com/company/tailoredsites/)
+* Bootcamp Graduate from [School of Code](https://www.schoolofcode.co.uk/partner) 
+
 
 * Looking for new opportunities
 
